@@ -46,6 +46,22 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[saif0200/notchprompt: 用于演示和录音的 macOS 本地凹槽式提词器。]]></title>
+    <published>2026-02-25T00:00:00+00:00</published>
+    <updated>2026-02-25T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/saif0200/notchprompt"/>
+    <id>https://github.com/saif0200/notchprompt</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/saif0200/notchprompt" target="_blank">saif0200/notchprompt: 用于演示和录音的 macOS 本地凹槽式提词器。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/saif0200/notchprompt" target="_blank">https://github.com/saif0200/notchprompt</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[php-testo/testo: Testo 是一个可扩展的测试框架，建立在轻量级核心和中间件系统之上。它让您完全控制测试环境，同时保持您已经熟悉的 PHP 语法。]]></title>
     <published>2026-02-14T16:00:00+00:00</published>
     <updated>2026-02-14T16:00:00+00:00</updated>
