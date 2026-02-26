@@ -16,6 +16,7 @@
 ### February 26, 2026 
 - [cosZone/MoePeek: 一款轻量级 macOS 划词翻译工具，纯 Swift 6 开发，设备端 Apple 翻译保护隐私，安装体积仅 5MB，后台运行内存稳定约 50MB](https://github.com/cosZone/MoePeek) 
 - [quoid/userscripts: 适用于 Safari 的开源用户脚本编辑器](https://github.com/quoid/userscripts#installation) 
+- [saif0200/notchprompt: 用于演示和录音的 macOS 本地凹槽式提词器。](https://github.com/saif0200/notchprompt) 
 ### February 15, 2026 
 - [php-testo/testo: Testo 是一个可扩展的测试框架，建立在轻量级核心和中间件系统之上。它让您完全控制测试环境，同时保持您已经熟悉的 PHP 语法。](https://github.com/php-testo/testo) 
 - [sudo-project/sudo: Sudo 是一个旨在允许系统管理员向用户授予有限根权限并记录根活动的程序。基本理念是尽可能少地授予权限，但仍然允许人们完成他们的工作。](https://github.com/sudo-project/sudo) 
