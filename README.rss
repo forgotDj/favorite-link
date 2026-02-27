@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Wed, 25 Feb 2026 16:00:00 +0000</pubDate>
+    <pubDate>Thu, 26 Feb 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>grinev/opencode-telegram-bot: OpenCode Telegram 机器人客户端用于 OpenCode CLI：在您的手机上运行和监控 AI 编码任务，同时一切在您的机器上本地运行。</title>
+      <pubDate>Thu, 26 Feb 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/grinev/opencode-telegram-bot</link>
+      <guid>https://github.com/grinev/opencode-telegram-bot</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/grinev/opencode-telegram-bot" target="_blank">grinev/opencode-telegram-bot: OpenCode Telegram 机器人客户端用于 OpenCode CLI：在您的手机上运行和监控 AI 编码任务，同时一切在您的机器上本地运行。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/grinev/opencode-telegram-bot" target="_blank">https://github.com/grinev/opencode-telegram-bot</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>cosZone/MoePeek: 一款轻量级 macOS 划词翻译工具，纯 Swift 6 开发，设备端 Apple 翻译保护隐私，安装体积仅 5MB，后台运行内存稳定约 50MB</title>
       <pubDate>Wed, 25 Feb 2026 16:00:00 +0000</pubDate>
