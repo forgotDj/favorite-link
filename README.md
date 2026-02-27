@@ -13,6 +13,9 @@
 
 
 
+
+### February 27, 2026 
+- [grinev/opencode-telegram-bot: OpenCode Telegram 机器人客户端用于 OpenCode CLI：在您的手机上运行和监控 AI 编码任务，同时一切在您的机器上本地运行。](https://github.com/grinev/opencode-telegram-bot) 
 ### February 26, 2026 
 - [cosZone/MoePeek: 一款轻量级 macOS 划词翻译工具，纯 Swift 6 开发，设备端 Apple 翻译保护隐私，安装体积仅 5MB，后台运行内存稳定约 50MB](https://github.com/cosZone/MoePeek) 
 - [quoid/userscripts: 适用于 Safari 的开源用户脚本编辑器](https://github.com/quoid/userscripts#installation) 
