@@ -10,6 +10,9 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+
+### March 1, 2026 
+- [MrPunyapal/pest-annotator-plugin: 一个Pest PHP插件，注释覆盖输出，包含类级别的细节、类型覆盖、圈复杂度、基线差异和灵活的导出格式。](https://github.com/MrPunyapal/pest-annotator-plugin) 
 ### February 27, 2026 
 - [grinev/opencode-telegram-bot: OpenCode Telegram 机器人客户端用于 OpenCode CLI：在您的手机上运行和监控 AI 编码任务，同时一切在您的机器上本地运行。](https://github.com/grinev/opencode-telegram-bot) 
 - [matheusml/zsh-ai: 将自然语言即时转换为 shell 命令。无需依赖项，无需复杂设置——只需输入所需内容，即可获得所需命令。](https://github.com/matheusml/zsh-ai) 
